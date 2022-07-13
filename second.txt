@@ -11,3 +11,5 @@ autor: sowmya
 4.sucess
 
 5.earning
+
+6.do bucket list
